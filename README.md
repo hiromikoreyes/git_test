@@ -1,18 +1,3 @@
 # git_test
-funny!
-I don't know what to write here I am learning the basics of git 
-:smiling_imp:
-:smiling_imp:
-
-:smiling_imp:
-
-:smiling_imp:
-
-:smiling_imp:
-
-:smiling_imp:
-
-:smiling_imp:
-
-
-:eggplant:
+This is my first project on github other than 
+my funny monkey project and my scuffed minesweeper project
